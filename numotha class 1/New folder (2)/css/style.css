@@ -1,0 +1,49 @@
+ body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* min-height: 100vh; */
+    background: rgb(243, 210, 243);
+    /* gap: 20px; */
+   } 
+   button{
+    font-size: 16px;
+    font-weight: 300;
+    background:  rgb(245, 187, 187);
+    border-radius: 5px;
+    color: black;
+    outline: none;
+    border-color: rgb(245, 187, 187);
+    box-shadow: rgb(245, 187, 187);
+}
+.numotha-box{
+    width: 300px;
+    height: 70px;
+    background: rgb(245, 187, 187);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    border-radius: 10px;
+}
+.input{
+    height: 20px;
+    display: flex;
+    text-align: center;
+    box-shadow: rgb(235, 190, 212),132,132;
+    border-color: rgb(245, 187, 187);
+    outline: none;
+    border-radius: 10px;
+}
+.card{
+    width:250px;
+    background:  rgb(245, 187, 187);
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+}
+h3{
+    font-size: 22px;
+    font-weight: 600;
+    color: black;
+}
